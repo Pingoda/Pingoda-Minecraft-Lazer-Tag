@@ -1,7 +1,5 @@
 # Lazer Tag Minecraft Minigame
 If you don't know how to install a Data Pack in Minecraft check out [this guide](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/) on PMC.
-
-*(In the Pingodas_Lazer_Tag.zip file you'll find everything you need, the Map & the Data Pack!)*  
   
 This is a Data Pack I made a while ago.  
   
