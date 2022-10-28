@@ -1,5 +1,5 @@
 # Lazer Tag Minecraft Minigame
-If you don't know how to install a Data Pack in Minecraft check out [this guide](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/) on PMC.
+If you don't know how to install a Data Pack in Minecraft check out [this guide](https://www.planetminecraft.com/blog/how-to-download-and-install-minecraft-data-packs/) and if you don't know how to install a Resource Pack check out [this guide](https://www.planetminecraft.com/blog/how-to-install-minecraft-texture-packs-4615399//) instead on PMC.
   
 This is a Data Pack I made a while ago.  
   
