@@ -1,0 +1,4 @@
+execute if entity @a[scores={armor_dropped=1..},team=red] run item replace entity @a[team=red] armor.chest with leather_chestplate{display:{Name:'{"text":"Red Chest","color":"red","bold":true,"italic":false}',color:16711680},Unbreakable:1b} 1
+execute if entity @a[scores={armor_dropped=1..},team=blue] run item replace entity @a[team=blue] armor.chest with leather_chestplate{display:{Name:'{"text":"Blue Chest","color":"blue","bold":true,"italic":false}',color:5887},Unbreakable:1b} 1
+
+execute as @a[scores={armor_dropped=1..}] at @s run scoreboard players reset @a[scores={armor_dropped=1..}] armor_dropped

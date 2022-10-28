@@ -1,0 +1,2 @@
+execute as @a[scores={red_melee_dropped=1..}] at @s run scoreboard players reset @a[scores={red_melee_dropped=1..}] red_melee_dropped
+item replace entity @a[team=red] hotbar.1 with blaze_rod{display:{Name:'{"text":"Red Melee","color":"red","bold":true,"italic":false}'},HideFlags:127,CustomModelData:857398,redmelee:1b,AttributeModifiers:[{AttributeName:"generic.attack_damage",Name:"generic.attack_damage",Amount:1000,Operation:2,UUID:[I;633906487,1226000857,-1514144136,-981230500],Slot:"mainhand"}]} 1
