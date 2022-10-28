@@ -1,1 +1,0 @@
-scoreboard players reset @a[scores={lazer=1..}] lazer
