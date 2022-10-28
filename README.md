@@ -1,0 +1,2 @@
+# LazerTag
+A Minecraft Minigame
