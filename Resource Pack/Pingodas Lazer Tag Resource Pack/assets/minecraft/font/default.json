@@ -1,0 +1,109 @@
+{
+    "providers": [
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/blue_team.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE000"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/red_team.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE001"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/red_spawn.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE002"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/blue_spawn.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE003"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/flag.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE004"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/powerups.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE005"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/red_won.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE006"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/blue_won.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE007"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/draw.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE008"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/lobby.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE009"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/speed.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE010"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/jump.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE011"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/teleport.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE012"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/sonar_name.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE013"]
+        },
+        {
+            "type": "bitmap",
+            "file": "minecraft:custom/spectator.png",
+            "ascent": 7,
+            "height": 7,
+            "chars": ["\uE014"]
+        }
+    ]
+}

@@ -1,0 +1,11 @@
+{
+    "parent": "item/handheld",
+    "textures": {
+        "layer0": "item/carrot_on_a_stick"
+    },
+
+    "overrides": [
+        {"predicate": {"custom_model_data": 736529}, "model": "item/red_lazer_gun"},
+        {"predicate": {"custom_model_data": 865259}, "model": "item/blue_lazer_gun"}
+    ]
+}
